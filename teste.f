@@ -1,5 +1,6 @@
-program main
+PROGRAM main
 
 PRINT * ,"hello world"
 
-end program main
+
+END PROGRAM main
